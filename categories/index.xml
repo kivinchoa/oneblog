@@ -10,5 +10,14 @@
         <atom:link href="https://kivinchoa.github.io/oneblog/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>随想</title>
+      <link>https://kivinchoa.github.io/oneblog/categories/%E9%9A%8F%E6%83%B3/</link>
+      <pubDate>Thu, 25 Jan 2018 21:36:58 -0500</pubDate>
+      
+      <guid>https://kivinchoa.github.io/oneblog/categories/%E9%9A%8F%E6%83%B3/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

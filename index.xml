@@ -6,10 +6,20 @@
     <description>Recent content on Mr.Zhou 博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Dec 2017 03:21:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jan 2018 21:36:58 -0500</lastBuildDate>
     
         <atom:link href="https://kivinchoa.github.io/oneblog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>忙并快乐着</title>
+      <link>https://kivinchoa.github.io/oneblog/posts/donothing/</link>
+      <pubDate>Thu, 25 Jan 2018 21:36:58 -0500</pubDate>
+      
+      <guid>https://kivinchoa.github.io/oneblog/posts/donothing/</guid>
+      <description>&lt;p&gt;今天琢磨了一天的Hugo，搭建了这个非常简单的博客网站。遇到了很多问题，但基本上解决了，还没有加入评论功能。了解到Hugo除了有主题，还有网页的模板，网页模板控制着网页的显示形式，配制更麻烦。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>About 关于</title>
@@ -18,16 +28,6 @@
       
       <guid>https://kivinchoa.github.io/oneblog/about/</guid>
       <description>&lt;p&gt;自建个人博客。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Hello Hugo ZJM!</title>
-      <link>https://kivinchoa.github.io/oneblog/posts/thinking/</link>
-      <pubDate>Mon, 01 Sep 2014 12:19:03 +0800</pubDate>
-      
-      <guid>https://kivinchoa.github.io/oneblog/posts/thinking/</guid>
-      <description>&lt;p&gt;This is ht&lt;/p&gt;
 </description>
     </item>
     
