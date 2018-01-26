@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tutorial on Mr.Zhou 博客</title>
-    <link>https://jmchoa.github.io/tags/tutorial/</link>
+    <link>https://kivinchoa.github.io/oneblog/tags/tutorial/</link>
     <description>Recent content in Tutorial on Mr.Zhou 博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 20 Dec 2016 20:08:19 +0800</lastBuildDate>
     
-        <atom:link href="https://jmchoa.github.io/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://kivinchoa.github.io/oneblog/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hugo Quick Start</title>
-      <link>https://jmchoa.github.io/posts/hugo-quick-start/</link>
+      <link>https://kivinchoa.github.io/oneblog/posts/hugo-quick-start/</link>
       <pubDate>Tue, 20 Dec 2016 20:08:19 +0800</pubDate>
       
-      <guid>https://jmchoa.github.io/posts/hugo-quick-start/</guid>
+      <guid>https://kivinchoa.github.io/oneblog/posts/hugo-quick-start/</guid>
       <description>
 
 &lt;h2 id=&#34;step-1-install-hugo&#34;&gt;Step 1: Install Hugo&lt;/h2&gt;

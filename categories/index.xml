@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Mr.Zhou 博客</title>
-    <link>https://jmchoa.github.io/categories/</link>
+    <link>https://kivinchoa.github.io/oneblog/categories/</link>
     <description>Recent content in Categories on Mr.Zhou 博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-        <atom:link href="https://jmchoa.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://kivinchoa.github.io/oneblog/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Zjm</title>
-      <link>https://jmchoa.github.io/categories/zjm/</link>
+      <link>https://kivinchoa.github.io/oneblog/categories/zjm/</link>
       <pubDate>Thu, 25 Jan 2018 10:40:04 -0500</pubDate>
       
-      <guid>https://jmchoa.github.io/categories/zjm/</guid>
+      <guid>https://kivinchoa.github.io/oneblog/categories/zjm/</guid>
       <description></description>
     </item>
     

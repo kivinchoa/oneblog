@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Mr.Zhou 博客</title>
-    <link>https://jmchoa.github.io/tags/blog/</link>
+    <link>https://kivinchoa.github.io/oneblog/tags/blog/</link>
     <description>Recent content in Blog on Mr.Zhou 博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 25 Jan 2018 10:40:04 -0500</lastBuildDate>
     
-        <atom:link href="https://jmchoa.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://kivinchoa.github.io/oneblog/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Thinking3</title>
-      <link>https://jmchoa.github.io/posts/thinking3/</link>
+      <link>https://kivinchoa.github.io/oneblog/posts/thinking3/</link>
       <pubDate>Thu, 25 Jan 2018 10:40:04 -0500</pubDate>
       
-      <guid>https://jmchoa.github.io/posts/thinking3/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://jmchoa.github.io/img/edu.jpg&#34; alt=&#34;alkj&#34; title=&#34;  dsfsaf&#34; /&gt;&lt;/p&gt;
+      <guid>https://kivinchoa.github.io/oneblog/posts/thinking3/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://kivinchoa.github.io/oneblog/img/edu.jpg&#34; alt=&#34;alkj&#34; title=&#34;  dsfsaf&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;This is the third&lt;/p&gt;
 </description>
@@ -25,30 +25,30 @@
     
     <item>
       <title>Thinking2</title>
-      <link>https://jmchoa.github.io/posts/thinking2/</link>
+      <link>https://kivinchoa.github.io/oneblog/posts/thinking2/</link>
       <pubDate>Thu, 25 Jan 2018 10:36:33 -0500</pubDate>
       
-      <guid>https://jmchoa.github.io/posts/thinking2/</guid>
+      <guid>https://kivinchoa.github.io/oneblog/posts/thinking2/</guid>
       <description>&lt;p&gt;Try it again.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Hello Hugo ZJM!</title>
-      <link>https://jmchoa.github.io/posts/thinking/</link>
+      <link>https://kivinchoa.github.io/oneblog/posts/thinking/</link>
       <pubDate>Mon, 01 Sep 2014 12:19:03 +0800</pubDate>
       
-      <guid>https://jmchoa.github.io/posts/thinking/</guid>
+      <guid>https://kivinchoa.github.io/oneblog/posts/thinking/</guid>
       <description>&lt;p&gt;This is ht&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Hello Hugo!</title>
-      <link>https://jmchoa.github.io/posts/hello-hugo/</link>
+      <link>https://kivinchoa.github.io/oneblog/posts/hello-hugo/</link>
       <pubDate>Mon, 01 Sep 2014 12:19:03 +0800</pubDate>
       
-      <guid>https://jmchoa.github.io/posts/hello-hugo/</guid>
+      <guid>https://kivinchoa.github.io/oneblog/posts/hello-hugo/</guid>
       <description>
 
 &lt;p&gt;Hello from Hugo! If you&amp;rsquo;re reading this in your browser, good job! The file &lt;code&gt;content/post/hello-hugo.md&lt;/code&gt; has been converted into a complete HTML document by Hugo. Isn&amp;rsquo;t that pretty nifty?&lt;/p&gt;
