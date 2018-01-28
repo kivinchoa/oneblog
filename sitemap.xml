@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://kivinchoa.github.io/oneblog/posts/farewell/</loc>
+    <lastmod>2018-01-27T23:17:35-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://kivinchoa.github.io/oneblog/posts/donothing/</loc>
     <lastmod>2018-01-25T21:36:58-05:00</lastmod>
   </url>
@@ -23,13 +28,13 @@
   
   <url>
     <loc>https://kivinchoa.github.io/oneblog/</loc>
-    <lastmod>2018-01-25T21:36:58-05:00</lastmod>
+    <lastmod>2018-01-27T23:17:35-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://kivinchoa.github.io/oneblog/posts/</loc>
-    <lastmod>2018-01-25T21:36:58-05:00</lastmod>
+    <lastmod>2018-01-27T23:17:35-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -41,6 +46,12 @@
   <url>
     <loc>https://kivinchoa.github.io/oneblog/tags/%E7%94%B5%E8%84%91/</loc>
     <lastmod>2018-01-25T21:36:58-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kivinchoa.github.io/oneblog/tags/%E9%9A%8F%E6%83%B3/</loc>
+    <lastmod>2018-01-27T23:17:35-05:00</lastmod>
     <priority>0</priority>
   </url>
   
