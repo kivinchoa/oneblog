@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://kivinchoa.github.io/oneblog/posts/backhome/</loc>
+    <lastmod>2018-02-13T11:38:57+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://kivinchoa.github.io/oneblog/posts/farewell/</loc>
     <lastmod>2018-01-27T23:17:35-05:00</lastmod>
   </url>
@@ -28,13 +33,13 @@
   
   <url>
     <loc>https://kivinchoa.github.io/oneblog/</loc>
-    <lastmod>2018-01-27T23:17:35-05:00</lastmod>
+    <lastmod>2018-02-13T11:38:57+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://kivinchoa.github.io/oneblog/posts/</loc>
-    <lastmod>2018-01-27T23:17:35-05:00</lastmod>
+    <lastmod>2018-02-13T11:38:57+08:00</lastmod>
     <priority>0</priority>
   </url>
   
