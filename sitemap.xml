@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://kivinchoa.github.io/oneblog/posts/unexpected/</loc>
+    <lastmod>2018-04-30T21:41:37+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kivinchoa.github.io/oneblog/posts/lectfu/</loc>
+    <lastmod>2018-04-30T14:35:58+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://kivinchoa.github.io/oneblog/posts/edu/</loc>
     <lastmod>2018-04-29T12:07:44+08:00</lastmod>
   </url>
@@ -48,18 +58,36 @@
   
   <url>
     <loc>https://kivinchoa.github.io/oneblog/</loc>
-    <lastmod>2018-04-29T12:07:44+08:00</lastmod>
+    <lastmod>2018-04-30T21:41:37+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://kivinchoa.github.io/oneblog/posts/</loc>
-    <lastmod>2018-04-29T12:07:44+08:00</lastmod>
+    <lastmod>2018-04-30T21:41:37+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://kivinchoa.github.io/oneblog/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kivinchoa.github.io/oneblog/tags/%E4%B8%AD%E5%9B%BD%E4%BC%A0%E7%BB%9F%E6%96%87%E5%8C%96/</loc>
+    <lastmod>2018-02-13T20:49:21+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kivinchoa.github.io/oneblog/categories/%E4%BD%9C%E4%B8%9A/</loc>
+    <lastmod>2018-02-13T20:49:21+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kivinchoa.github.io/oneblog/tags/%E6%84%8F%E6%96%99%E4%B9%8B%E5%A4%96/</loc>
+    <lastmod>2018-04-30T21:41:37+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -76,14 +104,20 @@
   </url>
   
   <url>
+    <loc>https://kivinchoa.github.io/oneblog/categories/%E8%AE%B2%E5%BA%A7/</loc>
+    <lastmod>2018-04-30T14:35:58+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://kivinchoa.github.io/oneblog/tags/%E9%9A%8F%E6%83%B3/</loc>
-    <lastmod>2018-04-29T12:07:44+08:00</lastmod>
+    <lastmod>2018-04-30T14:35:58+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://kivinchoa.github.io/oneblog/categories/%E9%9A%8F%E6%83%B3/</loc>
-    <lastmod>2018-04-22T19:25:25+08:00</lastmod>
+    <lastmod>2018-04-30T21:41:37+08:00</lastmod>
     <priority>0</priority>
   </url>
   
