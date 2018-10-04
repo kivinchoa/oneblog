@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://kivinchoa.github.io/oneblog/posts/beauty/</loc>
+    <lastmod>2018-10-04T16:37:30+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://kivinchoa.github.io/oneblog/posts/hosp/</loc>
     <lastmod>2018-07-13T07:35:15+08:00</lastmod>
   </url>
@@ -63,13 +68,13 @@
   
   <url>
     <loc>https://kivinchoa.github.io/oneblog/</loc>
-    <lastmod>2018-07-13T07:35:15+08:00</lastmod>
+    <lastmod>2018-10-04T16:37:30+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://kivinchoa.github.io/oneblog/posts/</loc>
-    <lastmod>2018-07-13T07:35:15+08:00</lastmod>
+    <lastmod>2018-10-04T16:37:30+08:00</lastmod>
     <priority>0</priority>
   </url>
   
