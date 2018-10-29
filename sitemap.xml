@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://kivinchoa.github.io/oneblog/posts/20181029/</loc>
+    <lastmod>2018-10-29T07:27:12+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://kivinchoa.github.io/oneblog/posts/beauty/</loc>
     <lastmod>2018-10-04T16:37:30+08:00</lastmod>
   </url>
@@ -68,13 +73,13 @@
   
   <url>
     <loc>https://kivinchoa.github.io/oneblog/</loc>
-    <lastmod>2018-10-04T16:37:30+08:00</lastmod>
+    <lastmod>2018-10-29T07:27:12+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://kivinchoa.github.io/oneblog/posts/</loc>
-    <lastmod>2018-10-04T16:37:30+08:00</lastmod>
+    <lastmod>2018-10-29T07:27:12+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -103,7 +108,7 @@
   
   <url>
     <loc>https://kivinchoa.github.io/oneblog/categories/%E6%95%99%E8%82%B2/</loc>
-    <lastmod>2018-04-29T12:07:44+08:00</lastmod>
+    <lastmod>2018-10-29T07:27:12+08:00</lastmod>
     <priority>0</priority>
   </url>
   
