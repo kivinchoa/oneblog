@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Mr.Zhou 博客</title>
@@ -6,18 +5,10 @@
     <description>Recent content in Categories on Mr.Zhou 博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 29 Oct 2018 07:27:12 +0800</lastBuildDate>
     
         <atom:link href="https://kivinchoa.github.io/oneblog/categories/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>作业</title>
-      <link>https://kivinchoa.github.io/oneblog/categories/%E4%BD%9C%E4%B8%9A/</link>
-      <pubDate>Tue, 13 Feb 2018 20:49:21 +0800</pubDate>
-      
-      <guid>https://kivinchoa.github.io/oneblog/categories/%E4%BD%9C%E4%B8%9A/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>教育</title>
@@ -25,6 +16,15 @@
       <pubDate>Mon, 29 Oct 2018 07:27:12 +0800</pubDate>
       
       <guid>https://kivinchoa.github.io/oneblog/categories/%E6%95%99%E8%82%B2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>随想</title>
+      <link>https://kivinchoa.github.io/oneblog/categories/%E9%9A%8F%E6%83%B3/</link>
+      <pubDate>Mon, 30 Apr 2018 21:41:37 +0800</pubDate>
+      
+      <guid>https://kivinchoa.github.io/oneblog/categories/%E9%9A%8F%E6%83%B3/</guid>
       <description></description>
     </item>
     
@@ -38,11 +38,11 @@
     </item>
     
     <item>
-      <title>随想</title>
-      <link>https://kivinchoa.github.io/oneblog/categories/%E9%9A%8F%E6%83%B3/</link>
-      <pubDate>Mon, 30 Apr 2018 21:41:37 +0800</pubDate>
+      <title>作业</title>
+      <link>https://kivinchoa.github.io/oneblog/categories/%E4%BD%9C%E4%B8%9A/</link>
+      <pubDate>Tue, 13 Feb 2018 20:49:21 +0800</pubDate>
       
-      <guid>https://kivinchoa.github.io/oneblog/categories/%E9%9A%8F%E6%83%B3/</guid>
+      <guid>https://kivinchoa.github.io/oneblog/categories/%E4%BD%9C%E4%B8%9A/</guid>
       <description></description>
     </item>
     
